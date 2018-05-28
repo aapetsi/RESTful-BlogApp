@@ -1,2 +1,2 @@
 # RESTful-BlogApp
-A blog app create on the principles of REST
+A blog app created on the principles of REST
